@@ -11,5 +11,3 @@ tests and documentation. Each submission takes the form of a pull request that
 is publicly reviewed and tested in order to guarantee actual reproducibility.
 
 [The Editorial Board](https://github.com/ReScience/ReScience/wiki/Board)
-
-### Current issue
