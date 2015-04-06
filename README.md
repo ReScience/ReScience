@@ -12,4 +12,4 @@ reviewed and tested in order to guarantee any researcher can re-use it. If you
 ever reproduced computational result from the literature, Re**Science** is the
 perfect place to publish this new implementation.
 
-[The Editorial Board](https://github.com/ReScience/ReScience/wiki/Board)
+[The Editorial Board](https://github.com/ReScience/ReScience/wiki/Editorial-Board)
