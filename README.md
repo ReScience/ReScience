@@ -13,3 +13,6 @@ ever reproduced computational result from the literature, Re**Science** is the
 perfect place to publish this new implementation.
 
 [The Editorial Board](https://github.com/ReScience/ReScience/wiki/Editorial-Board)
+
+
+[![Join the chat at https://gitter.im/ReScience/ReScience](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ReScience/ReScience?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
