@@ -1,9 +1,9 @@
 ![](https://raw.githubusercontent.com/wiki/ReScience/ReScience/_static/ReScience-banner.png)
 
-Re**Science** is a peer-reviewed journal that target computational research and
-encourage the explicit reproduction of already published research promoting new
+Re**Science** is a peer-reviewed journal that targets computational research and
+encourages the explicit reproduction of already published research promoting new
 and open-source implementations in order to ensure the original research is
-reproducible.To achieve such a goal, the whole editing chain is radically
+reproducible. To achieve such a goal, the whole editing chain is radically
 different from any other traditional scientific journal. Re**Science** lives on
 [github](https://github.com/ReScience/ReScience/wiki) where each new
 implementation is made available together with the comments, explanations and
