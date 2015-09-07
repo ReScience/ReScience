@@ -1,5 +1,4 @@
 ### The ReScience Journal
-#### Reproducible Science is Good. Replicated Science is better.
 
 [Re**Science**](https://rescience.github.io) is a peer-reviewed journal that
 targets computational research and encourages the explicit reproduction of
@@ -13,5 +12,7 @@ takes the form of a pull request that is publicly reviewed and tested in order
 to guarantee any researcher can re-use it. If you ever reproduced computational
 result from the literature, Re**Science** is the perfect place to publish this
 new implementation. 
+
+**Reproducible Science is Good. Replicated Science is better.**
 
 [The Editorial Board](https://rescience.github.io/board)
