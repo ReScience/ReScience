@@ -1,4 +1,5 @@
-### Reproducible Science is Good. Replicated Science is better.
+### The ReScience Journal
+#### Reproducible Science is Good. Replicated Science is better.
 
 [Re**Science**](https://rescience.github.io) is a peer-reviewed journal that
 targets computational research and encourages the explicit reproduction of
