@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/wiki/ReScience/ReScience/_static/ReScience-banner.png)
+### Reproducible Science is Good. Replicated Science is better.
 
 [Re**Science**](https://rescience.github.io) is a peer-reviewed journal that
 targets computational research and encourages the explicit reproduction of
