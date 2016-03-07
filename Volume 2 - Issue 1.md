@@ -4,7 +4,7 @@
 
   **A reference implementation of** *Least-cost modelling on irregular landscape graphs*, T. Etherington, Landscape Ecology, 27, 2012.  
   **Keywords**: Ecology, Least-cost path, Delaunay triangulation, Graph Theory  
-  **Links**: [PDF](https://github.com/ReScience-Archives/Stachelek-2016/raw/master/article/article.pdf) | [Code repository](https://github.com/ReScience-Archives/Stachelek-2016/tree/master/code/irlgraph) | [Review](https://github.com/ReScience/ReScience-submission/pull/11) | [DOI 10.5281/zenodo.47146](http://dx.doi.org/10.5281/zenodo.47146)
+  **Links**: [PDF](https://github.com/ReScience-Archives/Stachelek-2016/raw/master/article/article.pdf) | [Code repository](https://github.com/ReScience-Archives/Stachelek-2016) | [Review](https://github.com/ReScience/ReScience-submission/pull/11) | [DOI 10.5281/zenodo.47146](http://dx.doi.org/10.5281/zenodo.47146)
 
 
 
