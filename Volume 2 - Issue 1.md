@@ -1,5 +1,11 @@
 ### The ReScience Journal - volume 2, issue 1
 
+*[[Re] Chaos in a long-term experiment with a plankton community](https://github.com/ReScience-Archives/Petchey-Plebani-Pennekamp-2016/raw/master/article/article.pdf), O. Petchey, M. Plebani, F. Pennekamp, Re**Science**, volume 2, issue 1, 2016.
+
+  **A reference implementation of** Chaos in a long-term experiment with a plankton community, Benincà, E., Huisman, J., Heerkloss, R., Jöhnk, K.D., Branco, P., Van Nes, E.H., Sche er, M. & Ellner, S.P. Nature 451, 822–825, 2008.
+  **Keywords**: Ecology, Forecasting, Prediction, Chaos, Nonlinear dynamics, Plankton community, Species interactions
+  **Links**: [PDF](https://github.com/ReScience-Archives/Petchey-Plebani-Pennekamp-2016/raw/master/article/article.pdf) | [Code repository](https://github.com/ReScience-Archives/Petchey-Plebani-Pennekamp-2016) | [Review](https://github.com/ReScience/ReScience-submission/pull/15) | [DOI 10.5281/zenodo.50213](http://dx.doi.org/10.5281/zenodo.50213)
+
 * [[Re] Least-cost modelling on irregular landscape graphs](https://github.com/ReScience-Archives/Stachelek-2016/raw/master/article/article.pdf), J. Stachelek, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.45852.svg)](http://dx.doi.org/10.5281/zenodo.45852)
 
   **A reference implementation of** *Least-cost modelling on irregular landscape graphs*, T. Etherington, Landscape Ecology, 27, 2012.  
