@@ -1,6 +1,6 @@
 ### The ReScience Journal - volume 2, issue 1
 
-* [[Re] Multiple dynamical modes of thalamic relay neurons: rhythmic bursting and intermittent phase-locking] (https://github.com/ReScience-Archives/Detorakis-2016/raw/detorakis/article/detorakis-2016.pdf), G. Detorakis, Re**Science**, volume 2, issue 1, 2016. DOI: XXXX
+* [[Re] Multiple dynamical modes of thalamic relay neurons: rhythmic bursting and intermittent phase-locking] (https://github.com/ReScience-Archives/Detorakis-2016/raw/detorakis/article/detorakis-2016.pdf), G. Detorakis, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.61697.svg)](http://dx.doi.org/10.5281/zenodo.61697)
 
 * [[Re] Chaos in a long-term experiment with a plankton community](https://github.com/ReScience-Archives/Petchey-Plebani-Pennekamp-2016/raw/master/article/article.pdf), O. Petchey, M. Plebani, F. Pennekamp, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.50213.svg)](http://dx.doi.org/10.5281/zenodo.50213)
 
