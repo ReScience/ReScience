@@ -3,13 +3,13 @@
 * [[Re] Multiple dynamical modes of thalamic relay neurons: rhythmic bursting and intermittent phase-locking] (https://github.com/ReScience-Archives/Detorakis-2016/raw/detorakis/article/detorakis-2016.pdf), G. Detorakis, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.61697.svg)](http://dx.doi.org/10.5281/zenodo.61697)
 
   **A reference implementation of** Multiple dynamical modes of thalamic relay neurons: rhythmic bursting and intermittent phase-locking, Neuroscience, 59(1), 1994.  
-  **Keywords**: Neuroscience, Python, Conductance-based model, Thalamic relay neurons, Intermittent phase-locking, Spindle oscillation, Delta oscillation
+  **Keywords**: Neuroscience, Python, Conductance-based model, Thalamic relay neurons, Intermittent phase-locking, Spindle oscillation, Delta oscillation  
   **Links**: [PDF](https://github.com/ReScience-Archives/Detorakis-2016/raw/detorakis/article/detorakis-2016.pdf) | [Code repository](https://github.com/ReScience-Archives/Detorakis-2016.git) | [Review](https://github.com/ReScience/ReScience-submission/pull/17) | [DOI 10.5281/zenodo.61697](http://dx.doi.org/10.5281/zenodo.61697)
 
 * [[Re] Chaos in a long-term experiment with a plankton community](https://github.com/ReScience-Archives/Petchey-Plebani-Pennekamp-2016/raw/master/article/article.pdf), O. Petchey, M. Plebani, F. Pennekamp, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.50213.svg)](http://dx.doi.org/10.5281/zenodo.50213)
 
-  **A reference implementation of** Chaos in a long-term experiment with a plankton community, Benincà, E., Huisman, J., Heerkloss, R., Jöhnk, K.D., Branco, P., Van Nes, E.H., Sche er, M. & Ellner, S.P. Nature 451, 822–825, 2008.
-  **Keywords**: Ecology, Forecasting, Prediction, Chaos, Nonlinear dynamics, Plankton community, Species interactions
+  **A reference implementation of** Chaos in a long-term experiment with a plankton community, Benincà, E., Huisman, J., Heerkloss, R., Jöhnk, K.D., Branco, P., Van Nes, E.H., Sche er, M. & Ellner, S.P. Nature 451, 822–825, 2008.  
+  **Keywords**: Ecology, Forecasting, Prediction, Chaos, Nonlinear dynamics, Plankton community, Species interactions  
   **Links**: [PDF](https://github.com/ReScience-Archives/Petchey-Plebani-Pennekamp-2016/raw/master/article/article.pdf) | [Code repository](https://github.com/ReScience-Archives/Petchey-Plebani-Pennekamp-2016) | [Review](https://github.com/ReScience/ReScience-submission/pull/15) | [DOI 10.5281/zenodo.50213](http://dx.doi.org/10.5281/zenodo.50213)
 
 * [[Re] Least-cost modelling on irregular landscape graphs](https://github.com/ReScience-Archives/Stachelek-2016/raw/master/article/article.pdf), J. Stachelek, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.45852.svg)](http://dx.doi.org/10.5281/zenodo.45852)
