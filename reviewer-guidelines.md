@@ -18,7 +18,7 @@ using the `git pull` command.
 
 ## Reviewer guidelines
 
-The main criterion for acceptation is the actual replication of the research
+The main criterion for acceptance is the actual replication of the research
 with a clear statement by the authors explaining why they think they have
 replicated the paper (same figures, same graphics, same behavior,
 etc.). However, keep in mind that the clarity of the code is an important
