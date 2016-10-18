@@ -1,5 +1,15 @@
 ### The ReScience Journal - volume 2, issue 1
 
+* [[Re] Cellular and Network Mechanisms of Slow Oscillatory Activity (<1 Hz) and Wave Propagations in a Cortical Network Model](https://github.com/ReScience-Archives/Maksimov-Albada-Diesmann-2016/raw/master/article/maksimov-albada-diesmann-2016.pdf),  A. Maksimov, S.J. van Albada, M. Diesmann, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.161526.svg)](https://doi.org/10.5281/zenodo.161526)
+
+  **A reference implementation of** *Cellular and Network Mechanisms of Slow Oscillatory Activity (<1 Hz) and Wave Propagations in a Cortical Network Model*,
+    Compte, A., Sanchez-Vives M.V., McCormick D.A. & Wang XJ, Journal of Neurophysiology 89(5), 2003.  
+  **Keywords**: Python, Neuroscience, NEST, Network Modeling, Up-Down Oscillations, Cortex, Membrane Resistance Measurement  
+  **Links**: [PDF](https://github.com/ReScience-Archives/Maksimov-Albada-Diesmann-2016/raw/master/article/maksimov-albada-diesmann-2016.pdf) |
+             [Code repository](https://github.com/ReScience-Archives/Maksimov-Albada-Diesmann-2016) |
+             [Review](https://github.com/ReScience/ReScience-submission/pull/18) |
+             [DOI 10.5281/zenodo.161526](https://doi.org/10.5281/zenodo.161526)
+ 
 * [[Re] Robust timing and motor patterns by taming chaos in recurrent neural networks](https://github.com/ReScience-Archives/Vitay-2016/raw/master/article/vitay-2016.pdf), J. Vitay, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.159545.svg)](https://doi.org/10.5281/zenodo.159545)
 
   **A reference implementation of** *Robust timing and motor patterns by taming chaos in recurrent neural networks*, Laje, R. and Buonomano, D.V., Nature
