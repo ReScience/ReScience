@@ -3,8 +3,8 @@
 * [[Re] How Attention Can Create Synaptic Tags for the Learning of Working Memories in Sequential Tasks](https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016/raw/master/article/Le_Masson-Alexandre-2016.pdf), Erwan Le Masson & Frédéric Alexandre, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.200334.svg)](https://doi.org/10.5281/zenodo.200334)
 
   **A reference implementation of** *How Attention Can Create Synaptic Tags for the Learning of Working Memories in Sequential Tasks*,
-    J. Rombouts, M. Bohte and P. Roelfsema, PLoS Computational Biology, 11, 2015.
-  **Keywords**: Neuroscience, Deep learning, Associative cortex, Python
+    J. Rombouts, M. Bohte and P. Roelfsema, PLoS Computational Biology, 11, 2015.  
+  **Keywords**: Neuroscience, Deep learning, Associative cortex, Python  
   **Links**: [PDF](https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016/raw/master/article/Le_Masson-Alexandre-2016.pdf) |
              [Code repository](https://github.com/ReScience-Archives/Le_Masson-Alexandre-2016) |
              [Review](https://github.com/ReScience/ReScience-submission/pull/21) |
