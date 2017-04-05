@@ -17,11 +17,9 @@
   issue 1, article number 2, 2017.
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.495237.svg)](https://doi.org/10.5281/zenodo.495237)
 
-  **A reference implementation of** Hoy, A.R., Koay, C.G., Kecskemeti, S.R.,
-  Alexander, A.L. (2014). *Optimization of a free water elimination
-  two-compartment model for diffusion tensor imaging.* NeuroImage 103, 323-333.
-  doi: 10.1016/j.neuroimage.2014.09.053
-  **Keywords**: Neuroscience, Python, Diffusion-weighted imaging, Diffusion modeling, Diffusion tensor imaging
+  **A reference implementation of** *Optimization of a free water elimination two-compartment model for diffusion tensor imaging.*
+  Hoy, A.R., Koay, C.G., Kecskemeti, S.R., Alexander, A.L. (2014). NeuroImage 103, 323-333. doi: 10.1016/j.neuroimage.2014.09.053  
+  **Keywords**: Neuroscience, Python, Diffusion-weighted imaging, Diffusion modeling, Diffusion tensor imaging  
   **Links**: [PDF](https://github.com/ReScience-Archives/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017/raw/master/article/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017.pdf) |
              [Code repository](https://github.com/ReScience-Archives/Henriques-Rokem-Garyfallidis-St-Jean-Peterson-Correia-2017) |
              [Review](https://github.com/ReScience/ReScience-submission/pull/26) |
