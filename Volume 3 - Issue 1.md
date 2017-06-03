@@ -25,6 +25,17 @@
              [Review](https://github.com/ReScience/ReScience-submission/pull/26) |
              [DOI 10.5281/zenodo.495237](https://doi.org/10.5281/zenodo.495237)
 
+* [[Re] Spike Synchronization and Rate Modulation Differentially Involved in Motor Cortical Function](https://github.com/ReScience-Archives/Rostami-Ito-Denker-Gruen-2017/blob/master/article/Rostami-Ito-Denker-Gruen-2017.pdf)
+  Vahid Rostami, Junji Ito, Michael Denker, and Sonja Grün, Re**Science**, volume 3, issue 1, article number 3, 2017.
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.583814.svg)](https://doi.org/10.5281/zenodo.583814)
+
+  **A reference implementation of** *Spike Synchronization and Rate Modulation Differentially Involved in Motor Cortical Function* Alexa Riehle, , Sonja Grün, Markus Diesmann, and Ad Aertsen (1997), Science, 278, 5345, doi: 10.1126/science.278.5345.1950  
+  **Keywords**: Spike time synchrony, Unitary Events method , Python  
+  **Links**: [PDF] https://github.com/ReScience-Archives/Rostami-Ito-Denker-Gruen-2017/blob/master/article/Rostami-Ito-Denker-Gruen-2017.pdf |
+             [Code repository](https://github.com/ReScience-Archives/Rostami-Ito-Denker-Gruen-2017) | 
+             [Review](https://github.com/ReScience/ReScience-submission/pull/24) |
+             [DOI 10.5281/zenodo.583814](https://doi.org/10.5281/zenodo.583814)
+
 * [[Re] Weighted Voronoi Stippling](https://github.com/ReScience-Archives/Rougier-2017/blob/master/article/Rougier-2017.pdf),
   Nicolas P. Rougier, Re**Science**, volume 3, issue 1, article number 4, 2017.
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.802285.svg)](https://doi.org/10.5281/zenodo.802285)
