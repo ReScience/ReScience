@@ -25,3 +25,14 @@
              [Review](https://github.com/ReScience/ReScience-submission/pull/26) |
              [DOI 10.5281/zenodo.495237](https://doi.org/10.5281/zenodo.495237)
 
+* [[Re] Weighted Voronoi Stippling](https://github.com/ReScience-Archives/Rougier-2017/blob/master/article/Rougier-2017.pdf),
+  Nicolas P. Rougier, Re**Science**, volume 3, issue 1, article number 4, 2017.
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.802285.svg)](https://doi.org/10.5281/zenodo.802285)
+
+  **A reference implementation of** *Weighted Voronoi Stippling.*
+  Adrian Secord (2002). Proceedings of the 2nd International Symposium on Non-photorealistic Animation and Rendering. doi: 10.1145/508530.508537  
+  **Keywords**: Python, Stippling, Voronoi, Computer Graphics, Blue Noise  
+  **Links**: [PDF](https://github.com/ReScience-Archives/Rougier-2017/blob/master/article/Rougier-2017.pdf) |
+             [Code repository](https://github.com/ReScience-Archives/Rougier-2017) |
+             [Review](https://github.com/ReScience/ReScience-submission/pull/28) |
+             [DOI 10.5281/zenodo.802285](https://doi.org/10.5281/zenodo.802285)
