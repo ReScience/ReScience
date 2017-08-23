@@ -18,6 +18,13 @@ using the `git pull` command.
 
 ## Reviewer guidelines
 
+### Successful replications
+
+Most articles in Re**Science** reports th successful replication of the
+results (figures, tables, ...) of previously published research work.
+A full replication covers all the results of the original work, whereas
+a partial replication covers only a subset of the results.
+
 The main criteria for acceptance are
 
  1. The actual replication of the research. The reviewer must evaluate
@@ -57,3 +64,18 @@ software packages that are mainstream in the field is encouraged,
 but not strictly required. The less well-known a software package
 is, the more explanation authors should provide concerning its
 capabilities and use.
+
+### Failed replications
+
+A replication attempt can lead to the finding that the results of the
+original paper cannot be reproduced, suggesting a mistake or ommission
+in the original work. The failure can concern some or all of the results.
+Re**Science** accepts reports on replication failures, but requires a
+particularly careful examination by the reviewers. The authors must describe
+in detail why they believe that the original work is mistaken, and the
+reviewers must be convinced by the reasoning offered by the authors.
+
+Authors who are confronted with replication failure are strongly encouraged
+to contact the authors of the original work and try to explore the causes
+of the replication failure in collaboration with them. This is, however, not
+a requirement for publication in Re**Science**.
