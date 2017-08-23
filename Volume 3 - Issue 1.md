@@ -47,3 +47,14 @@
              [Code repository](https://github.com/ReScience-Archives/Rougier-2017) |
              [Review](https://github.com/ReScience/ReScience-submission/pull/28) |
              [DOI 10.5281/zenodo.802285](https://doi.org/10.5281/zenodo.802285)
+
+* [[Re] A simple rule for the evolution of cooperation on graphs and social networks](https://github.com/ReScience-Archives/Stollmeier-2017/raw/master/article/stollmeier-2017.pdf), Frank Stollmeier, Re**Science**, volume 3, issue 1, 2017. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.847732.svg)](https://doi.org/10.5281/zenodo.847732)
+
+  **A reference implementation of** *A simple rule for the evolution of cooperation on graphs and social networks.*
+H. Ohtsuki, C. Hauert, E. Lieberman and M.A. Nowak (2006). Nature, 441, 502. doi: 10.1038/nature04605
+  **Keywords**: Evolutionary Game Theory, Networks 
+  **Links**: [PDF](https://github.com/ReScience-Archives/Stollmeier-2017/blob/master/article/Stollmeier-2017.pdf) |
+             [Code repository](https://github.com/ReScience-Archives/Stollmeier-2017) |
+             [Review](https://github.com/ReScience/ReScience-submission/pull/27) |
+             [DOI 10.5281/zenodo.847732](https://doi.org/10.5281/zenodo.847732)
+
