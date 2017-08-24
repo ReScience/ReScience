@@ -45,11 +45,15 @@ The main criteria for acceptance are
     explain any obstacles they have encountered during the replication
     work.
 
-The goal of the review is not to "accept" or "reject" a submission but
-to help the authors meet the Re**Science** quality standards. Since
-Re**Science** targets replication of already published research, there
-is no need to judge the relevance or novelty of the work. Every
-replication that meets the criteria listed above is welcome in ReScience.
+The primary goal of the review is not to decide whether to accept or
+reject a submission, but to help the authors improve their work until
+it meets the Re**Science** quality standards. Since Re**Science**
+targets replication of already published research, there is no need to
+judge the relevance or novelty of the work. Every replication that
+meets the criteria listed above is welcome in Re**Science**.
+Rejection remains of course a possiblity, in the case that the
+authors are not able or willing to improve their submission as
+deemed necessary by the reviewers.
 
 When evaluating the criteria for acceptance, reviewers need to apply
 the standards of their field of research. There are no absolute
