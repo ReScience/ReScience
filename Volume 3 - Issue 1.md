@@ -77,3 +77,12 @@ H. Ohtsuki, C. Hauert, E. Lieberman and M.A. Nowak (2006). Nature, 441, 502. doi
              [Code repository](https://github.com/ReScience-Archives/Stojic-2017.git) |
              [Review](https://github.com/ReScience/ReScience-submission/pull/36) |
              [DOI 10.5281/zenodo.890884](http://doi.org/10.5281/zenodo.890884)
+
+* [[Re] A bidirectional model for communication in the neurovascular unit](https://github.com/ReScience-Archives/Diem-2017/blob/master/article/Diem-2017.pdf), Alexandra K. Diem, Re**Science**, volume 3, issue 1, 2017. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.890901.svg)](http://doi.org/10.5281/zenodo.890901)
+
+  **A reference implementation of** *A bidirectional model for communication in the neurovascular unit*, Witthoft, A., Karniadakis, G. E. (2012) Journal of Theoretical Biology 311: 80-93
+  **Keywords**: Neurovascular modelling, Neurovascular unit, Chemical signalling, Astrocytes, Neuroscience
+  **Links**: [PDF](https://github.com/ReScience-Archives/Diem-2017/blob/master/article/Diem-2017.pdf) |
+             [Code repository](https://github.com/ReScience-Archives/Diem-2017/tree/master/code)|
+             [Review](https://github.com/ReScience/ReScience-submission/pull/33) |
+             [DOI 10.5281/zenodo.890901](http://doi.org/10.5281/zenodo.890901)
