@@ -69,6 +69,15 @@ H. Ohtsuki, C. Hauert, E. Lieberman and M.A. Nowak (2006). Nature, 441, 502. doi
              [Review](https://github.com/ReScience/ReScience-submission/pull/30) |
              [DOI 10.5281/zenodo.200334](http://doi.org/10.5281/zenodo.854617)
 
+* [[Re] A Generalized Linear Integrate-and-Fire Neural Model Produces Diverse Spiking Behaviors](https://github.com/ReScience-Archives/Detorakis-2017/blob/master/article/detorakis-2017.pdf), Georgios Detorakis, Re**Science**, volume 3, issue 1, 2017. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1003214.svg)](https://doi.org/10.5281/zenodo.1003214)
+b
+  **A reference implementation of** *A Generalized Linear Integrate-and-Fire Neural Model Produces Diverse Spiking Behaviors*, Stefan Mihalas and Ernst Niebur, Neural Computation 21, 704–718, 2009.
+  **Keywords**: Python, generalized linear integrate-and-fire neuron
+  **Links**: [PDF](https://github.com/ReScience-Archives/Stojic-2017/raw/master/article/Stojic-2017.pdf) |
+             [Code repository](https://github.com/ReScience-Archives/Detorakis-2017) |
+             [Review](https://github.com/ReScience/ReScience-submission/pull/35) |
+             [DOI 10.5281/zenodo.890884](http://doi.org/10.5281/zenodo.1003214)
+
 * [[Re] How learning can guide evolution](https://github.com/ReScience-Archives/Stojic-2017/raw/master/article/Stojic-2017.pdf), Hrvoje Stojić, Re**Science**, volume 3, issue 1, 2017. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.890884.svg)](https://doi.org/10.5281/zenodo.890884)
 
   **A reference implementation of** *How learning can guide evolution*, Hinton, G. E. , Nowlan, S. J. (1987) Complex Systems, 1(3).
