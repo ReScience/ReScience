@@ -1,4 +1,15 @@
 ### The ReScience Journal - volume 4, issue 1
+            
+* [[Re] A neural model of the saccade generator in the reticular formation](https://github.com/ReScience-Archives/Senden-Schuecker-Hahne-Diesmann-Goebel-2018/blob/master/article/senden-schuecker-hahne-diesmann-goebel-2018.pdf), Mario Senden, Jannis Schuecker, Jan Hahne, Markus Diesmann, Rainer Goebel, Re**Science**, volume 4, issue 1, 2018. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1241004.svg)](https://doi.org/10.5281/zenodo.1241004)
+
+  **A reference implementation of** *A Neural Model of the Saccade Generator in the Reticular Formation*,
+    Gancarz, G., Grossberg, S.., Neural Networks 11, no. 7-8 (October 1998): 1159-74. [doi:10.1016/S0893-6080(98)00096-3](https://doi.org/10.1016/S0893-6080)  
+  **Keywords**: Supercomputing Waveform, relaxation, parallelization, rate models, spiking neural network simulator, stochastic (delay) differential equations
+  **Links**: [PDF](https://github.com/ReScience-Archives/Senden-Schuecker-Hahne-Diesmann-Goebel-2018/blob/master/article/senden-schuecker-hahne-diesmann-goebel-2018.pdf) |
+             [Code repository](https://github.com/ReScience-Archives/Senden-Schuecker-Hahne-Diesmann-Goebel-2018) |
+             [Review](https://github.com/ReScience/ReScience-submission/pull/46) |
+             [DOI 10.5281/zenodo.1241004](https://doi.org/10.5281/zenodo.1241004)
+
           
 * [[Re] The cell-type specific cortical microcircuit: relating structure and activity in a full-scale spiking network model](https://github.com/ReScience-Archives/ShimouraR-KamijiNL-PenaRFO-CordeiroVL-CeballosCC-RomaroC-RoqueAC-2017/blob/master/article/ShimouraR-KamijiNL-PenaRFO-CordeiroVL-CeballosCC-RomaroC-RoqueAC-2017.pdf), Renan O. Shimoura, Nilton L. Kamij1, Rodrigo F.O. Pena, Vinicius L. Cordeiro, Cesar C. Ceballos, Cecilia Romaro, and Antonio C. Roque, Re**Science**, volume 4, issue 1, 2017. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1243268.svg)](https://doi.org/10.5281/zenodo.1243268)
 
