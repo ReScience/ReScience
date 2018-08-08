@@ -2,7 +2,7 @@
 
 * [[Re] Spike Timing Dependent Plasticity Finds the Start of Repeating Patterns in Continuous Spike Trains](https://github.com/ReScience-Archives/Hathway-Goodman-2018/blob/master/article/Hathway-Goodman-2018.pdf), Pamela Hatway and Dan F. M. Goodman, Re**Science**, volume 4, issue 1, article #6, 2018. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1327348.svg)](https://doi.org/10.5281/zenodo.1327348)
 
-  **A reference implemntation of**
+  **A reference implementation of**
   *Spike Timing Dependent Plasticity Finds the Start of Repeating Patterns in Continuous Spike Trains*,
   Masquelier T, Guyonneau R, Thorpe SJ, PLoS ONE 3(1): e1377, 2008.
   [DOI: 10.1371/journal.pone.0001377](https://doi.org/10.1371/journal.pone.0001377)  
@@ -18,7 +18,7 @@
 * [[Re] Non-additive coupling enables propagation of synchronous spiking activity in purely random networks](https://github.com/ReScience-Archives/Caze-Stimberg-Girard-2018/blob/master/article/Caze_2018.pdf), Romain Cazé, Marcel Stimberg, and Benoît Girard, Re**Science**, volume 4, issue 1, article 1, 2018.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1246659.svg)](https://doi.org/10.5281/zenodo.1246659)
 
-  **A reference implemntation** *Non-additive coupling enables propagation of synchronous spiking activity in purely random networks*, R.M. Memmesheimer, M. Timme, PLoS Computational Biology, 8(4): e1002384, 2012. [DOI: 10.1371/journal.pcbi.1002384](https://doi.org/10.1371/journal.pcbi.1002384)  
+  **A reference implementation** *Non-additive coupling enables propagation of synchronous spiking activity in purely random networks*, R.M. Memmesheimer, M. Timme, PLoS Computational Biology, 8(4): e1002384, 2012. [DOI: 10.1371/journal.pcbi.1002384](https://doi.org/10.1371/journal.pcbi.1002384)  
   **Keywords**: Dendrites, non-linearities, network, synfire chain  
   **Links**: [PDF](https://github.com/ReScience-Archives/Caze-Stimberg-Girard-2018/blob/master/article/Caze_2018.pdf) |
              [Code repository](https://github.com/ReScience-Archives/Caze-Stimberg-Girard-2018/) |
