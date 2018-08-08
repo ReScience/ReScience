@@ -18,7 +18,7 @@
 * [[Re] Non-additive coupling enables propagation of synchronous spiking activity in purely random networks](https://github.com/ReScience-Archives/Caze-Stimberg-Girard-2018/blob/master/article/Caze_2018.pdf), Romain Cazé, Marcel Stimberg, and Benoît Girard, Re**Science**, volume 4, issue 1, article 1, 2018.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1246659.svg)](https://doi.org/10.5281/zenodo.1246659)
 
-  **A reference implementation** *Non-additive coupling enables propagation of synchronous spiking activity in purely random networks*, R.M. Memmesheimer, M. Timme, PLoS Computational Biology, 8(4): e1002384, 2012. [DOI: 10.1371/journal.pcbi.1002384](https://doi.org/10.1371/journal.pcbi.1002384)  
+  **A reference implementation of** *Non-additive coupling enables propagation of synchronous spiking activity in purely random networks*, R.M. Memmesheimer, M. Timme, PLoS Computational Biology, 8(4): e1002384, 2012. [DOI: 10.1371/journal.pcbi.1002384](https://doi.org/10.1371/journal.pcbi.1002384)  
   **Keywords**: Dendrites, non-linearities, network, synfire chain  
   **Links**: [PDF](https://github.com/ReScience-Archives/Caze-Stimberg-Girard-2018/blob/master/article/Caze_2018.pdf) |
              [Code repository](https://github.com/ReScience-Archives/Caze-Stimberg-Girard-2018/) |
