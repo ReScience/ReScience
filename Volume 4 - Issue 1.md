@@ -1,6 +1,6 @@
 ### The ReScience Journal - volume 4, issue 1
 
-* [[Re] Spike Timing Dependent Plasticity Finds the Start of Repeating Patterns in Continuous Spike Trains](https://github.com/ReScience-Archives/Hathway-Goodman-2018/blob/master/article/Hathway-Goodman-2018.pdf), Pamela Hatway and Dan F. M. Goodman, Re**Science**, volume 4, issue 1, article #6, 2018. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1327348.svg)](https://doi.org/10.5281/zenodo.1327348)
+* [[Re] Spike Timing Dependent Plasticity Finds the Start of Repeating Patterns in Continuous Spike Trains](https://github.com/ReScience-Archives/Hathway-Goodman-2018/blob/master/article/Hathway-Goodman-2018.pdf), Pamela Hathway and Dan F. M. Goodman, Re**Science**, volume 4, issue 1, article #6, 2018. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1327348.svg)](https://doi.org/10.5281/zenodo.1327348)
 
   **A reference implementation of**
   *Spike Timing Dependent Plasticity Finds the Start of Repeating Patterns in Continuous Spike Trains*,
