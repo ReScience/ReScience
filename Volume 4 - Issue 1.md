@@ -1,5 +1,20 @@
 ### The ReScience Journal - volume 4, issue 1
 
+* [[Re] On the coexistence of specialists and generalists](https://github.com/ReScience-Archives/Poisot-2018/blob/master/article/Poisot-2018.pdf), Timothée Poisot, Re**Science**, volume 4, issue 1, article #7, 2018. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1402676.svg)](https://doi.org/10.5281/zenodo.1402676)
+
+  **A reference implementation of**
+  *On the coexistence of specialists and generalists*,
+  Wilson, D.S. and Yoshimura, J. The American Naturalist 144:4, 692-707, 1994.
+  [DOI: 10.1086/285702](https://doi.org/10.1086/285702)  
+  
+  **Keywords**:  community ecology, specialist, generalist, coexistence, discrete time model  
+  **Links**: [PDF](https://github.com/ReScience-Archives/Poisot-2018/blob/master/article/Poisot-2018.pdf) |
+             [Code repository](https://github.com/ReScience-Archives/Poisot-2018) |
+             [Review](https://github.com/ReScience/ReScience-submission/pull/39) |
+             [DOI 10.5281/zenodo.1402676](https://zenodo.org/record/1402676)
+
+----
+
 * [[Re] Spike Timing Dependent Plasticity Finds the Start of Repeating Patterns in Continuous Spike Trains](https://github.com/ReScience-Archives/Hathway-Goodman-2018/blob/master/article/Hathway-Goodman-2018.pdf), Pamela Hathway and Dan F. M. Goodman, Re**Science**, volume 4, issue 1, article #6, 2018. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1327348.svg)](https://doi.org/10.5281/zenodo.1327348)
 
   **A reference implementation of**
