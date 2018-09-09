@@ -9,7 +9,7 @@ scientific journal. Re**Science** lives on
 [github](https://github.com/ReScience/) where each new implementation is made
 available together with the comments, explanations and tests. Each submission
 takes the form of a pull request that is publicly reviewed and tested in order
-to guarantee any researcher can re-use it. If you ever replicated computational
+to guarantee any researcher can re-use it. If you ever replicated a computational
 result from the literature, Re**Science** is the perfect place to publish this
 new implementation. **Reproducible Science is Good. Replicated Science is better.**
 
