@@ -20,7 +20,7 @@ using the `git pull` command.
 
 ### Successful replications
 
-Most articles in Re**Science** reports th successful replication of the
+Most articles in Re**Science** report the successful replication of the
 results (figures, tables, ...) of previously published research work.
 A full replication covers all the results of the original work, whereas
 a partial replication covers only a subset of the results.
