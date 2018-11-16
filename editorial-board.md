@@ -51,7 +51,7 @@ accepts submissions in other open source languages.
 
 * [Benoît Girard](https://github.com/benoit-girard)
   [★](https://github.com/ReScience/ReScience-submission/pull/3)  
-  Computational Neuroscience - Robotics - Python - C  
+  Computational Neuroscience - Robotics - Python - C - PyNEST 
 
 * [Mehdi Khamassi](https://github.com/MehdiKhamassi)
   [★](https://github.com/ReScience/ReScience-submission/pull/3)  
