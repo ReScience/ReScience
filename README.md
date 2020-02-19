@@ -1,5 +1,12 @@
 ## The ReScience Journal
 
+**Note:** This repository contains the first volumes of ReScience. Articles were
+submitted as pull requests and merged upon acceptance. This workflow turned out
+to be a bit cumbersome and restrictive for authors, which is why we adopted
+a new one based on two repositories: one for [submissions](https://github.com/ReScience/submissions)
+and a different one containing the accepted [articles](https://github.com/ReScience/articles).
+The entry point for ReScience remains its [Web site](https://rescience.github.io/).
+
 [Re**Science**](https://rescience.github.io) is a peer-reviewed journal that
 targets computational research and encourages the explicit replication of
 already published research promoting new and open-source implementations in
