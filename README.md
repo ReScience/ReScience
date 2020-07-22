@@ -1,6 +1,7 @@
 ## The ReScience Journal
 
-[Re**Science**](https://rescience.github.io) is a peer-reviewed journal that
+[Re**Science**](https://rescience.github.io) is a *platinum open-access*
+peer-reviewed journal that
 targets computational research and encourages the explicit replication of
 already published research promoting new and open-source implementations in
 order to ensure the original research is reproducible. To achieve such a goal,
