@@ -32,7 +32,7 @@
              [DOI 10.5281/zenodo.159545](https://doi.org/10.5281/zenodo.159545)
  
 
-* [[Re] Multiple dynamical modes of thalamic relay neurons: rhythmic bursting and intermittent phase-locking] (https://github.com/ReScience-Archives/Detorakis-2016/raw/master/article/detorakis-2016.pdf), G. Detorakis, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.61697.svg)](http://dx.doi.org/10.5281/zenodo.61697)
+* [[Re] Multiple dynamical modes of thalamic relay neurons: rhythmic bursting and intermittent phase-locking](https://github.com/ReScience-Archives/Detorakis-2016/raw/master/article/detorakis-2016.pdf), G. Detorakis, Re**Science**, volume 2, issue 1, 2016. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.61697.svg)](http://dx.doi.org/10.5281/zenodo.61697)
 
   **A reference implementation of** *Multiple dynamical modes of thalamic relay neurons: rhythmic bursting and intermittent phase-locking*, Neuroscience, 59(1), 1994.  
   **Keywords**: Neuroscience, Python, Conductance-based model, Thalamic relay neurons, Intermittent phase-locking, Spindle oscillation, Delta oscillation  
